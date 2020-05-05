@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://syc-max.github.io</id>
     <title>Syc&apos;blog</title>
-    <updated>2020-04-06T06:53:55.262Z</updated>
+    <updated>2020-05-05T11:12:10.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://syc-max.github.io"/>
     <link rel="self" href="https://syc-max.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://syc-max.github.io/images/avatar.png</logo>
     <icon>https://syc-max.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Syc&apos;blog</rights>
+    <entry>
+        <title type="html"><![CDATA[开学了....]]></title>
+        <id>https://syc-max.github.io/post/kai-xue-liao/</id>
+        <link href="https://syc-max.github.io/post/kai-xue-liao/">
+        </link>
+        <updated>2020-05-05T11:11:17.000Z</updated>
+        <content type="html"><![CDATA[<p>真的开心哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈......</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[双鱼座的天真]]></title>
         <id>https://syc-max.github.io/post/shuang-yu-zuo-de-tian-zhen/</id>
